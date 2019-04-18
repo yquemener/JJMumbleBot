@@ -1,7 +1,7 @@
+### This version of JJMumbleBot is deprecated and is no longer being supported. Please check the master branch and releases for the newest versions of this bot. This branch only exists for legacy users.
+
 # JJMumbleBot
-[![GitHub release](https://img.shields.io/github/release/DuckBoss/JJMumbleBot.svg)](https://github.com/DuckBoss/JJMumbleBot/releases/latest)
 [![Packagist](https://img.shields.io/badge/License-GPL-blue.svg)](https://github.com/DuckBoss/JJMumbleBot/blob/master/LICENSE)
-[![CodeFactor](https://www.codefactor.io/repository/github/duckboss/jjmumblebot/badge)](https://www.codefactor.io/repository/github/duckboss/jjmumblebot)
 
 A plugin-based python 3 mumble bot with extensive features.
 
@@ -22,18 +22,3 @@ A plugin-based python 3 mumble bot with extensive features.
 - <b>Command Tick Rates</b> - Commands in the queue are processed by the tick rate assigned in the config.
 - <b>Multi-Threaded Command Processing</b> - Commands in the queue are handled in multiple threads for faster processing.
 - <b>Reconfigurable Command Privileges</b> - The user privileges required to execute commands can be completely reconfigured.
-
-## Documentation
-<b> Please check out the wiki for documentation </b> <br>
-<a href="https://github.com/DuckBoss/JJMumbleBot/wiki">https://github.com/DuckBoss/JJMumbleBot/wiki</a> <br>
-<b> Requirements: </b> <br>
-<a href="https://github.com/DuckBoss/JJMumbleBot/wiki/Requirements">https://github.com/DuckBoss/JJMumbleBot/wiki/Requirements</a> <br>
-<b> Quick Start guide: </b> <br>
-<a href="https://github.com/DuckBoss/JJMumbleBot/wiki/Quick-Start">https://github.com/DuckBoss/JJMumbleBot/wiki/Quick-Start</a> <br>
-<b> Legacy Branches: </b> <br>
-<a href="https://github.com/DuckBoss/JJMumbleBot/wiki/LegacyVersions">https://github.com/DuckBoss/JJMumbleBot/wiki/LegacyVersions</a>
-
-## Extra Plugins:
-<a href="https://github.com/DuckBoss/JJMumbleBot-PluginLibrary">https://github.com/DuckBoss/JJMumbleBot-PluginLibrary</a>
-
-### Got any questions or concerns? Please post an issue report!
