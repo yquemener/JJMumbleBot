@@ -1,3 +1,5 @@
+### This version of JJMumbleBot is deprecated and is no longer being supported. Please check the master branch and releases for the newest versions of this bot. This branch only exists for legacy users.
+
 # JJMumbleBot
 [![Packagist](https://img.shields.io/badge/License-GPL-blue.svg)](https://github.com/DuckBoss/JJMumbleBot/blob/master/LICENSE)
 
