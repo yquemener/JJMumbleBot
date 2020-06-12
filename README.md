@@ -1,9 +1,8 @@
+### This version of JJMumbleBot is deprecated and is no longer being supported. Please check the master branch and releases for the newest versions of this bot. This branch only exists for legacy users.
+
 # JJMumbleBot
-[![GitHub release](https://img.shields.io/github/release/DuckBoss/JJMumbleBot.svg)](https://github.com/DuckBoss/JJMumbleBot/releases/latest)
 [![Packagist](https://img.shields.io/badge/License-GPL-blue.svg)](https://github.com/DuckBoss/JJMumbleBot/blob/master/LICENSE)
 <br>
-[![CodeFactor](https://www.codefactor.io/repository/github/duckboss/jjmumblebot/badge)](https://www.codefactor.io/repository/github/duckboss/jjmumblebot)
-[![Build Status](https://travis-ci.com/DuckBoss/JJMumbleBot.svg?branch=master)](https://travis-ci.com/DuckBoss/JJMumbleBot)
 
 A plugin-based python 3 mumble bot with extensive features.
 
