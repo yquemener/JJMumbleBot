@@ -105,9 +105,11 @@ class BotService:
         global_settings.mumble_inst.is_ready()
         if global_settings.cfg.getboolean(C_CONNECTION_SETTINGS, P_SELF_REGISTER):
             global_settings.mumble_inst.users.myself.register()
+        global_settings.mumble_inst.users.myself.update_context(bytes("TestLink\0Minetest\0", "utf-8"))
+        global_settings.mumble_inst.positional = (382.1, 12.5, 395.8)
         global_settings.mumble_inst.users.myself.comment(
             f'{runtime_utils.get_comment()}<br>[{META_NAME}({META_VERSION})] - {runtime_utils.get_bot_name()}<br>{runtime_utils.get_about()}')
-        runtime_utils.mute()
+        runtime_utils.unmute()
         runtime_utils.get_channel(global_settings.cfg[C_CONNECTION_SETTINGS][P_CHANNEL_DEF]).move_in()
 
     @staticmethod
